@@ -6,7 +6,24 @@ should also be pretty, sound nice, and not require too many system resources.
 to create one worldwide or countrywide AI that those specific programmers would have to be 
 licensed.
 
-3)I am waiting on my check from my employer to buy the book…
+3)-in automation an effective codebase is essential due to its effect on societ, a true 
+autonomous system, if it fails, could affect the population it supplies.
+
+-in autonomous vehicles writing code that effectively controlls cars will will save lives.
+
+-in code written to control financial assets, the developer has the opportunity to exploit 
+his job for personal gain, it is expecxted that the developer doesnt do that.
+
+-This is fairly easy as a developer if you just treat all of your users as the same, and 
+not to implement sysyetms that dont support all people equaly.
+
+-give all credit to all pieces of intelectual property you have used in your project
+
+-privacy is the primary concern of mine going into the computer science world, data has 
+extreme value beyond what most people associate with it.
+
+-in a similar vein as the previous one, confidentiality, if it is part of the software's 
+purpose, should be upheld just as one should uphold privacy.
 
 4)Any current computer is currently unequipped to handle social issues due to the fact that 
 an emotion can never be represented as a 1 or a 0. A notion or any other action a human takes 
