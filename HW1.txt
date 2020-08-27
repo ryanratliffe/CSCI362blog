@@ -1,0 +1,13 @@
+1)it should fit the functional and non-functional requirements provided to the developer, 
+it should be user friendly, and it should be easy to modify if the requirements shift. It 
+should also be pretty, sound nice, and not require too many system resources.
+
+2)I don’t think its necessary in the current time, however I think if the world ever tries 
+to create one worldwide or countrywide AI that those specific programmers would have to be 
+licensed.
+
+3)I am waiting on my check from my employer to buy the book…
+
+4)Any current computer is currently unequipped to handle social issues due to the fact that 
+an emotion can never be represented as a 1 or a 0. A notion or any other action a human takes 
+is very hard to represent in binary.
