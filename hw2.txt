@@ -1,0 +1,29 @@
+I have picked up on a very interesting centralized thread that worms its way through these articles; 
+that if you are methodical, organized and consistently mindful of your work and its various additions, 
+that creating and monitoring the main product becomes very easy. Not only that but it allows for the 
+creator to exercise their creativity and passion that much easier. Let me explain how one might do 
+this in the context of coding and software. In version control systems when you pull out a chunk of 
+code to work on you have one or more set goals that you are trying to accomplish before you merge your 
+revised code with the main codebase. However if you are mentally able to break down your code even 
+farther, to the point where you are checking out code with only one goal, then it becomes easier to 
+create the change you set out to do while also making it easier for the main code base to be edited 
+after the change is part of the “finished product”. This also points to the common thread that if this 
+constant vigilance, when working on a team, is even more necessary, so your teammates can understand 
+what you have done and be able to add their code in around yours seamlessly. What happens if this 
+doesn’t happen? Well let us start off with saying its not pretty, but also talk about why it becomes 
+such a downward spiral as soon as one person slips up and adds even partially incomprehensible code. 
+Once one person merges a piece of code that isn’t documented right or is very hacked together, 
+subsequent features that rely on this code to work are then either insufficient, need to be refactored, 
+or are just plain slow. These issues are not a problem in small insignificant programs designed for a 
+short-term purpose. However, become very problematic when you write a couple of thousands of lines of 
+code that is part of a singular process and, for example, don’t document it. Once you leave the 
+company, your code loses all definition and hopefully that code doesn’t ever need to be heavily edited, 
+otherwise some other developer is going to be very sad. Now let’s talk about some of the solutions to 
+fix this code after someone has messed up and not followed the rigorous version control protocol that 
+everyone should be using. If the person made multiple asynchronous changes in one part of the code, 
+this should be caught during code review before the merge process. As a member of the team working on 
+the code it is all your responsibilities to ensure your coworkers are just as diligent about 
+comprehensible code as you are. Lastly, and this is rare, but if the developer has messed up his part 
+of the code bad enough it might be worth it to revert the code to a previous version and rewrite the 
+poorly written code so it is comprehensible as opposed to not. There were more points to gather but 
+that is the most significant commonality between the three articles in question.
