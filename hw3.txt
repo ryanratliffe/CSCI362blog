@@ -1,0 +1,17 @@
+HW3: Ex 11.4, 11.7, 11.9, 12.5
+11.4)Modular redundancy is commonly used to ensure software integrity by running multiple codebases that do 
+the same thing at the same time and verify the results against themselves.
+11.7)using n-version programming would be smart for any software dealing with medical issues, one thing I 
+would add would be n-version user interfaces too so doctors have to input the same information multiple 
+times, reducing mistakes.
+11.9)if a software has comprehensible exception handles for al possible outcomes, the user will be in 
+control and aware of all of the system functions at all time.
+12.5)
+1-the software must be fast
+2-the software must be able to instantly determine if the current speed is greater than the track speed
+3-the software must be able to preemptively know if the speed limit of the track is going to change in 
+the future to be able to slow down and not be exceeding the speed limit once it hits the new track section.
+4-the software must be able to determine how aggressively to apply the brakes to maintain the correxct 
+speed while also ensuring safety and comfort
+5- the software must be able to know how long it will take to stop and know if there is a section of track 
+that isn’t passable up ahead so it can stop before that segment of track.
