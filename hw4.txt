@@ -1,0 +1,31 @@
+In any application or software there are unlimited combinations of user inputs and outcomes based on 
+those inputs. Needless to say, there are always room for errors of varying degree of severity. A 
+common set of errors that surface as time passes are poorly refactored code bases as bit limits and 
+storage medias change so too do the codes that rely upon them. You might be asking what differentiates 
+a good refactor from a bad one, and from what I have seen it seems like if the beginning of the 
+process starts off well and a very clear concise roadmap is drawn out, the errors are going to be 
+fewer and farther between. How does one test code that is by its very purpose going to be trying to 
+encounter unforeseen obstacles and avoid them correctly? Well the short answer is that its technically 
+impossible, every circumstance isn’t predictable. For self-driving vehicles even the best human drivers 
+who have fully functioning cognition aren’t able to avoid every problem, especially if the driver, 
+human or computer, hasn’t seen a similar situation prior. For other situations people with ill intent 
+might try to feed a learning algorithm bad information to alter the course of its learning and 
+creating unpredictable results. This can be partially solved by having extremely secure all localized 
+data, but that will only work for so long and malicious people will make it very difficult to secure 
+data streams to computers and learning machines. Especially since even an organization as secretive 
+as the FBI was even scammed for hundreds of missions of dollars. In medical situations every doctor 
+is going to use the software in varying ways, creating an environment where a developer would have 
+no way of predicting every permutation of every user’s input. This causes serious problems when 
+dealing with radiation treatment for cancer, drugs, or any other potentially harmful substance 
+where the dosage number, if wrong even only by a small amount, could compound on itself and create 
+extremely hazardous situations for the patient. With applications such as full omniscient 
+surveillance, how do we know mistakes aren’t being made by the developers who are writing the code 
+to help government link faces and identities. History repeats itself, and if any of our previous 
+lessons haven’t been learned by these developers we could very well have a “minority report” 
+situation where incorrect information is either gathered or output into a working project corrupting 
+not only specific cases but also, if unnoticed, creating a fundamentally flawed database of identities 
+and even criminal records for people who haven’t done a bad thing in their lives. So what is the grand 
+take-away? Code isn’t perfect, the numbers can lie, but not in the way most people think, the numbers 
+that are based off of the data is probably correct, but if the data itself isn’t that’s where the 
+serious problems will occur. This is the case especially in applications where the program relies on 
+its own output to continue operation causing an exponential spiral away from the truth.
