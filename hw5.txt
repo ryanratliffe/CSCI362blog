@@ -1,0 +1,22 @@
+4.5)
+-Needs to securely process the data without saving any credentials. Needs to discontinue the charge if the 
+user waits too long before pumping gas in case the user has left. Needs to shut off the flow of gass when 
+the sensors tell the pump the gas tank is full.
+- Needs to securely process the data without saving any credentials. Needs to discontinue the charge if 
+the user waits too long before pumping gas in case the user has left. Needs to not leave important details 
+on the screen for too long.
+-Needs to not display user credentials unless necessary. needs to only display personal sensitive 
+information upon request, needs to require a re-entering of the passcode every once in a while, to 
+re-verify the identity of the user. Needs to update balances in real time.
+4.6) 
+An engineer might have a checklist and a process for how to accomplish all functional and non-functional 
+requirements and would check them off as they did them.
+4.7) 
+Functional Requirments will include
+1. Type of transaction to be performed.
+2. Correct States/Screen display
+3. Timeout paremeters based on requirement.
+4. proper flow based on us-on-us and them-on-us cards.
+5. Different Hardware error simulations
+6. Reversing the last transaction
+7. Administration Transactions
