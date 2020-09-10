@@ -1,0 +1,13 @@
+In software the primary concern of the developer should be the security and integrity of all the data 
+coming into or leaving the program. A developer should go about doing this via extensive test-driven 
+development, so many modern software has numerous vulnerabilities to the point where login credentials 
+might as well not be used, and data is expected to not be private. In critical roles of software like 
+banking the government has tried to create regulations to ensure privacy for the public but isn’t super 
+effective since most banks have extraordinary legal shields for problems like this. For applications 
+like wireless systems in cars there are extreme concerns of the security, namely for one’s safety and 
+defense against people with mal intent and the ability to hack into a car and confuse the Systems 
+sensors to cause a crash or even change the destination of the vehicle to virtually abduct passengers. 
+The modularization of components in the car and extreme testing is required to ensure the safety of 
+everyone and anyone who drives including the passengers in the car. The general takeaway from these 
+issues is that extreme amounts of testing ensures the satisfaction and of the customer in any significant 
+kind of software.
