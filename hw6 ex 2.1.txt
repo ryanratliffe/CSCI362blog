@@ -1,0 +1,5 @@
+2.1)
+a)Waterfall model
+b)Incremental development
+c)Integration and configuration
+d)Incremental development
