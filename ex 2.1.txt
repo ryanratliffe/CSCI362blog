@@ -1,0 +1,5 @@
+2.1)
+a)waterfall model
+b)incremental process
+c)integration and configuration
+d)incremental development
